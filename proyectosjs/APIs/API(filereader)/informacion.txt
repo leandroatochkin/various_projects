@@ -1,0 +1,3 @@
+{
+	"tipo de objeto" : "json"
+}
